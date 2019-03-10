@@ -1,3 +1,6 @@
+# PyPDF2 是一個輕鬆處理 PDF 檔的套件，提供了讀取、分割、合併、檔案轉換等多種操作。
+# PdfFileReader 用來初始化一個 PdfFileReader
+
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
 # 設定讀取 PDF 檔案，獲取 PdfFileReader 物件

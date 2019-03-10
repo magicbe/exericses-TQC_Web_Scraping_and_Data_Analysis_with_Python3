@@ -1,4 +1,8 @@
+# pdfkit 是一個在 Python 中將 HTML 轉成 PDF 的套件，使用前，要先安裝 wkhtmltopdf，
+# 以 Windows 環境為例，需先進入 https://wkhtmltopdf.org/downloads.html 下載安裝。
+
 import pdfkit
+
 # 指定 wkhtmltopdf.exe 的安裝路徑
 config = pdfkit.configuration(wkhtmltopdf=r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe')
 # 從網路抓取網頁轉換成 PDF

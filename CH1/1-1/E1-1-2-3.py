@@ -1,3 +1,5 @@
+# PdfFileWriter 可以分割寫入 PDF 檔
+
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
 # 設定讀取 PDF 檔案，獲取 PdfFileReader 物件，此處增加宣告 strict = False
