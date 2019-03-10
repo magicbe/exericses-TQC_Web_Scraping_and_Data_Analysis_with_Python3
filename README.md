@@ -1,1 +1,1 @@
-"# exericses-TQC_Web_Scraping_and_Data_Analysis_with_Python3" 
+# TQC+ Python 3.x 網頁資料擷取與分析特訓教材 - 練習
