@@ -64,3 +64,5 @@ f = open ("c:\\sample\test.txt","w")
 f.close()
 ```
 
+## 1-1-5 txt 檔案寫入
+文字檔讀取與寫入
